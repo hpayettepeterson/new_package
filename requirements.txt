@@ -28,4 +28,5 @@ joblib
 memoized-property
 termcolor
 
+#cloud computing
 botocore>=1.20.62
